@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/upflux-app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
